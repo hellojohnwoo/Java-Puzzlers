@@ -1,4 +1,4 @@
-package oddity.puzzle1.expressivepuzzlers;
+package expressivepuzzlers.puzzle1.oddity;
 
 public class Oddity {
     public static void main (String args[]) {
