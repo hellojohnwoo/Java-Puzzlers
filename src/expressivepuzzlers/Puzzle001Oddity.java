@@ -1,6 +1,6 @@
-package expressivepuzzlers.puzzle1.oddity;
+package expressivepuzzlers;
 
-public class Oddity {
+public class Puzzle001Oddity {
     public static void main (String args[]) {
 
     System.out.println("isOdd1(5) " + isOdd1(5));

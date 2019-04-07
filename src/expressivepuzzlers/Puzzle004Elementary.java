@@ -1,6 +1,6 @@
 package expressivepuzzlers;
 
-public class Elementary004 {
+public class Puzzle004Elementary {
     public static void main(String[] args) {
 
         System.out.println(12345 + 5432L);

@@ -1,7 +1,7 @@
 package expressivepuzzlers;
 import java.math.BigDecimal;
 
-public class Change002 {
+public class Puzzle002Change {
     public static void main(String args[]) {
 
         System.out.println(2.00 - 1.10);
