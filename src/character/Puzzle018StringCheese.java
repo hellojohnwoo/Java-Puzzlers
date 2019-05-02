@@ -1,5 +1,6 @@
 package character;
 
+/*
 public class Puzzle018StringCheese {
     public static void main(String[] args) {
 
@@ -13,3 +14,4 @@ public class Puzzle018StringCheese {
 
     }
 }
+*/

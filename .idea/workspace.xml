@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea0eb74-8132-4fd6-95f2-bd60b0e6901e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/character/Puzzle011LastLaugh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/character/Puzzle012ABC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/character/Puzzle013AnimalFarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/character/Puzzle014EscapeRout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/character/Puzzle015HelloWhirled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/character/Puzzle016LinePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle009Tweedledum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle010Tweedledee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle001Oddity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle001Oddity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle002Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle002Change.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle003LongDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle003LongDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle004Elementary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle004Elementary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle005Hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle005Hex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle006Multicast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle006Multicast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle007CleverSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle007CleverSwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle008DosEquis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressivepuzzlers/Puzzle008DosEquis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/character/Puzzle018StringCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/character/Puzzle018StringCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/character/Puzzle019ClassyFire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/character/Puzzle019ClassyFire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/character/Puzzle020MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/character/Puzzle020MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle024BigDelight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle024BigDelight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle025Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle025Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle026InTheLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle026InTheLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle027Shifty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle027Shifty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle028Looper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle028Looper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle029Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle029Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle030NameOfLooper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle030NameOfLooper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle031GhostOfLooper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle031GhostOfLooper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopy/Puzzle033DemonOfLooper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopy/Puzzle033DemonOfLooper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,21 +27,24 @@
     <session id="1697795288">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="6" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3826" />
+          <entry key="JAVA" value="8587" />
           <entry key="PLAIN_TEXT" value="88" />
         </counts>
       </usages-collector>
@@ -53,55 +53,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/character/Puzzle011LastLaugh.java">
+        <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle030NameOfLooper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/character/Puzzle012ABC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/character/Puzzle013AnimalFarm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/character/Puzzle014EscapeRout.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/character/Puzzle015HelloWhirled.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="72">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/character/Puzzle016LinePrinter.java">
+        <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle031GhostOfLooper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="126">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -145,6 +109,28 @@
         <option value="$PROJECT_DIR$/src/character/Puzzle014EscapeRout.java" />
         <option value="$PROJECT_DIR$/src/character/Puzzle015HelloWhirled.java" />
         <option value="$PROJECT_DIR$/src/character/Puzzle016LinePrinter.java" />
+        <option value="$PROJECT_DIR$/src/character/Puzzle017Huh.java" />
+        <option value="$PROJECT_DIR$/src/character/Puzzle022URL.java" />
+        <option value="$PROJECT_DIR$/src/character/Puzzle018StringCheese.java" />
+        <option value="$PROJECT_DIR$/src/character/Puzzle020MyClass.java" />
+        <option value="$PROJECT_DIR$/src/character/Puzzle019ClassyFire.java" />
+        <option value="$PROJECT_DIR$/src/character/Puzzle023NoPainNoGain.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle032CurseOfLooper.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle034Count.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle035Clock.java" />
+        <option value="$PROJECT_DIR$/src/exceptional/Puzzle036Indecisive.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle033DemonOfLooper.java" />
+        <option value="$PROJECT_DIR$/src/exceptional/Puzzle037Arcane1.java" />
+        <option value="$PROJECT_DIR$/src/exceptional/Puzzle038UnwelcomeGuest.java" />
+        <option value="$PROJECT_DIR$/src/exceptional/Puzzle039HelloGoodbye.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle024BigDelight.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle025Increment.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle026InTheLoop.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle027Shifty.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle028Looper.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle029Test.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle030NameOfLooper.java" />
+        <option value="$PROJECT_DIR$/src/loopy/Puzzle031GhostOfLooper.java" />
       </list>
     </option>
   </component>
@@ -154,11 +140,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-31" />
-    <option name="y" value="23" />
-    <option name="width" value="1171" />
-    <option name="height" value="849" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="532" />
+    <option name="y" value="273" />
+    <option name="width" value="1148" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,21 +174,39 @@
             </path>
             <path>
               <item name="java-puzzlers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-puzzlers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-puzzlers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-puzzlers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="expressivepuzzlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-puzzlers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-puzzlers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="loopy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-puzzlers" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jeong/Desktop/hello/java-puzzlers/src/expressivepuzzlers/Puzzle007CleverSwap.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554616267706" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556784470948" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
@@ -219,13 +223,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Puzzle016LinePrinter">
-    <configuration name="Puzzle011LastLaugh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.Puzzle011LastLaugh" />
+  <component name="RunManager" selected="Application.Puzzle039HelloGoodbye">
+    <configuration name="Puzzle026InTheLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopy.Puzzle026InTheLoop" />
       <module name="java-puzzlers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="character.*" />
+          <option name="PATTERN" value="loopy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle013AnimalFarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.Puzzle013AnimalFarm" />
+    <configuration name="Puzzle027Shifty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopy.Puzzle027Shifty" />
       <module name="java-puzzlers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="character.*" />
+          <option name="PATTERN" value="loopy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle014EscapeRout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.Puzzle014EscapeRout" />
+    <configuration name="Puzzle029Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopy.Puzzle029Test" />
       <module name="java-puzzlers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="character.*" />
+          <option name="PATTERN" value="loopy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle015HelloWhirled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.Puzzle015HelloWhirled" />
+    <configuration name="Puzzle032CurseOfLooper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopy.Puzzle032CurseOfLooper" />
       <module name="java-puzzlers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="character.*" />
+          <option name="PATTERN" value="loopy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle016LinePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.Puzzle016LinePrinter" />
+    <configuration name="Puzzle039HelloGoodbye" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptional.Puzzle039HelloGoodbye" />
       <module name="java-puzzlers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="character.*" />
+          <option name="PATTERN" value="exceptional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Puzzle011LastLaugh" />
-      <item itemvalue="Application.Puzzle013AnimalFarm" />
-      <item itemvalue="Application.Puzzle014EscapeRout" />
-      <item itemvalue="Application.Puzzle015HelloWhirled" />
-      <item itemvalue="Application.Puzzle016LinePrinter" />
+      <item itemvalue="Application.Puzzle026InTheLoop" />
+      <item itemvalue="Application.Puzzle027Shifty" />
+      <item itemvalue="Application.Puzzle029Test" />
+      <item itemvalue="Application.Puzzle032CurseOfLooper" />
+      <item itemvalue="Application.Puzzle039HelloGoodbye" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Puzzle016LinePrinter" />
-        <item itemvalue="Application.Puzzle015HelloWhirled" />
-        <item itemvalue="Application.Puzzle014EscapeRout" />
-        <item itemvalue="Application.Puzzle013AnimalFarm" />
-        <item itemvalue="Application.Puzzle011LastLaugh" />
+        <item itemvalue="Application.Puzzle039HelloGoodbye" />
+        <item itemvalue="Application.Puzzle032CurseOfLooper" />
+        <item itemvalue="Application.Puzzle029Test" />
+        <item itemvalue="Application.Puzzle027Shifty" />
+        <item itemvalue="Application.Puzzle026InTheLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -321,17 +325,25 @@
       <workItem from="1554372667336" duration="1503000" />
       <workItem from="1554472412752" duration="591000" />
       <workItem from="1554609305115" duration="6118000" />
+      <workItem from="1554814239990" duration="788000" />
+      <workItem from="1554903953899" duration="1871000" />
+      <workItem from="1554987942865" duration="1041000" />
+      <workItem from="1554990079071" duration="2000" />
+      <workItem from="1555077482678" duration="574000" />
+      <workItem from="1555163931624" duration="683000" />
+      <workItem from="1555245832323" duration="305000" />
+      <workItem from="1556780138176" duration="3565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13267000" />
+    <option name="totallyTimeSpent" value="22096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14713065" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3028083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,7 +352,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.25408164" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32142857" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45772594" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,7 +361,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.24761905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,28 +473,28 @@
     <entry file="file://$PROJECT_DIR$/src/character/Puzzle011LastLaugh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/character/Puzzle013AnimalFarm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/character/Puzzle012ABC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle013AnimalFarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/character/Puzzle014EscapeRout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -496,7 +508,177 @@
     <entry file="file://$PROJECT_DIR$/src/character/Puzzle016LinePrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle017Huh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle021MyClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle018StringCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle020MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle019ClassyFire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle022URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/Puzzle023NoPainNoGain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptional.java" />
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle033DemonOfLooper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle034Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle035Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptional/Puzzle036Indecisive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptional/Puzzle037Arcane1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptional/Puzzle038UnwelcomeGuest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle032CurseOfLooper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptional/Puzzle039HelloGoodbye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle026InTheLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle025Increment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle024BigDelight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle027Shifty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle028Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle029Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle030NameOfLooper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loopy/Puzzle031GhostOfLooper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>

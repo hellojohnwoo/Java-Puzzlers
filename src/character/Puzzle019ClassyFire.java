@@ -1,8 +1,10 @@
 package character;
 
+
+
 public class Puzzle019ClassyFire {
     public static void main(String[] args) {
-        System.out.println(classify('n') + classify('+') + classify('2'));
+       // System.out.println(classify('n') + classify('+') + classify('2'));
     }
     static String classfiy(char ch) {
 
@@ -14,16 +16,15 @@ public class Puzzle019ClassyFire {
 
             return "LETTER ";
 
-                /*
+
 
                 if ("+-*/".indexOf(ch) >= 0)
 
         return "OPERATOR";
 
-                */
+
 
         return "UNKNOWN";
-
-    }
+ }
 
 }

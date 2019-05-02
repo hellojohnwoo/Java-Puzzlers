@@ -1,5 +1,6 @@
 package character;
 
+/*
 public class Puzzle020MyClass {
     public static void main(String[] args) {
         String path = Me.class.getName().replaceAll(".", "/");
@@ -12,3 +13,4 @@ public class Puzzle020MyClass {
         System.out.println(path + ".class");
     }
 }
+*/
